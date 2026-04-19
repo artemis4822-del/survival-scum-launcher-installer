@@ -2,10 +2,10 @@
 
 Latest installer package for `SURVIVAL SCUM Launcher`.
 
-Current version: `0.2.14`
+Current version: `0.2.15`
 
 Files:
 
-- `SURVIVAL_SCUM_Launcher_Setup_0.2.14.exe`
+- `SURVIVAL_SCUM_Launcher_Setup_0.2.15.exe`
 
-Built from the launcher source project on `2026-04-18`.
+Built from the launcher source project on `2026-04-19`.
